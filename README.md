@@ -44,12 +44,15 @@ It provides actionable insights into **production performance, demand vs supply,
 
  ## 📸 Dashboard Screenshots
 
-### Manufacturing Overview
+# Manufacturing Overview
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 ![Manufacturing Dashboard](Dashboard Screenshot 1.png)
 
-### Sales Overview
+# Sales Overview
 ![Sales Dashboard](Dashboard Screenshot 2.png)
 
-### Detailed View
+# Detailed View
 ![Detailed Dashboard](Dashboard Screenshot 3.png)
+
+
 
