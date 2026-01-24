@@ -1,0 +1,301 @@
+Distributor_ID,Distributor_Name,Region,Contact_Person,Credit_Limit
+D0001,"Daniels, Flores and French",Central,Melanie Rojas,174019
+D0002,"Richards, Barnett and Oneill",South,John Pierce,115726
+D0003,"Sanchez, Johnson and Lucas",North,John Bush,191564
+D0004,Gutierrez Inc,Central,Sarah Gonzalez,427812
+D0005,Powell and Sons,North,Isabel Knox,318246
+D0006,"Jones, Miller and Moyer",South,Lindsay Lee,231408
+D0007,Walls PLC,North,Michelle Pittman,168015
+D0008,"Baxter, Miller and Martinez",Central,Donald English,266386
+D0009,Taylor-Harrington,North,Ashley Hunt,304079
+D0010,"Singh, Robles and Cannon",South,Evan Green,76641
+D0011,Valdez LLC,West,Troy Meadows,215656
+D0012,Carroll-Esparza,North,Ashley Costa,213817
+D0013,Pacheco-Jacobs,Central,Albert Martin,466309
+D0014,"Martinez, Hensley and Arellano",South,Elizabeth Blankenship,415890
+D0015,Carr PLC,Central,Stephen Marshall,495101
+D0016,Garrett-Hinton,Central,Melinda Woodard,86631
+D0017,Morgan-Johnson,North,Morgan Casey PhD,292289
+D0018,"Cox, Macdonald and Rivera",Central,Michelle Boone,122991
+D0019,Vargas LLC,North,Brandon Lawson,54014
+D0020,Mccullough-Cobb,West,Ian Carter,323237
+D0021,"Harper, Maynard and Pope",Central,Luis Smith,68070
+D0022,Dunn LLC,Central,Amy Williams,347921
+D0023,Burns-Gray,Central,Brian Martin,106958
+D0024,Lopez Group,East,Jason Ewing,132074
+D0025,"Esparza, Reed and Evans",East,Steven Ward,60729
+D0026,"Yoder, Vargas and Warren",South,Justin Hayes,280785
+D0027,Pacheco-Riley,East,Yolanda Cooper,226089
+D0028,Smith LLC,South,Allen Stanton,247392
+D0029,Shaw Ltd,East,Hannah Williams,208823
+D0030,Williamson-Alexander,West,Ashley Walton,155864
+D0031,Alexander Ltd,South,Melissa Camacho,443002
+D0032,Johnston PLC,East,Jacqueline Young,259141
+D0033,"Ramirez, Hammond and Carlson",West,Stephanie Carter,417654
+D0034,Smith PLC,East,Christopher Spencer,104748
+D0035,Butler-Hamilton,North,Robert Lewis,55801
+D0036,Hatfield-Taylor,North,Maurice Flores,200262
+D0037,Smith PLC,West,Kiara Johnson,492905
+D0038,Thompson-Nunez,Central,Matthew Norton,285362
+D0039,Burgess and Sons,Central,Michael Gallegos,494209
+D0040,"Perez, Small and Young",North,Carla Perkins,79592
+D0041,Garza PLC,North,Gregory Walker,322791
+D0042,Best Group,Central,Jonathan Perry,189788
+D0043,Anderson-Hill,South,Todd Ramirez,269963
+D0044,Chen Inc,Central,Gregory Cardenas,298710
+D0045,Harris PLC,East,Eric Lowery,270984
+D0046,Davis LLC,South,Sean Lang,422771
+D0047,Hurley-Davies,East,Jason Bowers,382460
+D0048,Dyer-Moody,North,Matthew Diaz,308067
+D0049,"Davis, Hunt and Hill",South,Sabrina Jones,314512
+D0050,King Group,East,Barbara Sharp,127575
+D0051,Munoz-Anderson,East,Tara Ramos,318799
+D0052,Wilson-Brooks,South,Michael Ray,287549
+D0053,Salazar-Boyer,West,Sheryl Hayes,120031
+D0054,Rodriguez PLC,Central,Brian Nelson,137922
+D0055,Montgomery Ltd,East,Adam Clark,498982
+D0056,Andrade-Brown,Central,Jessica Joseph,174046
+D0057,Conner-Friedman,Central,Connie Ramirez,456619
+D0058,"Griffith, Carter and Davenport",North,Shannon Huang,82097
+D0059,Walker Inc,Central,Tyler Flowers,192038
+D0060,Rodriguez-Welch,East,Natasha Reid DDS,174862
+D0061,Cantu-Carrillo,North,Aaron Alexander,280229
+D0062,Barker-Mckenzie,South,Scott Alvarez,168834
+D0063,"Mcdonald, Patterson and Herrera",East,Amy Goodwin,143848
+D0064,"Meyer, Crawford and Roberts",North,Seth Stephens,102921
+D0065,Reynolds-Riley,North,Dylan Greene,230798
+D0066,"Reyes, Bailey and Gray",Central,Brittany Thompson,176141
+D0067,Aguilar Group,South,Tanya Martinez,231372
+D0068,Myers-Grant,East,Catherine Schneider,334821
+D0069,Holland-Glover,East,Joann Williams,105609
+D0070,Cooper PLC,Central,Matthew Webb,277897
+D0071,Gamble-Logan,South,Paul Griffin,499877
+D0072,Arias-Mcclure,East,Barbara Powell,81024
+D0073,Jones PLC,South,Natasha Nelson,120313
+D0074,Woods Group,East,Robin Bryan,439957
+D0075,Johnston-Herrera,Central,David Garcia,234078
+D0076,Gilmore-Chapman,West,Sarah Bailey,407429
+D0077,"Farmer, Brock and Porter",East,Derrick Stevenson,458554
+D0078,Vasquez-Simpson,North,Bruce Baker,163632
+D0079,"Cohen, Strong and Johnson",North,John Williams,462724
+D0080,Silva-Perkins,West,Jack Wilson,301451
+D0081,Clark LLC,East,Mallory Moore,53051
+D0082,Weber-Rich,North,Benjamin Ho,229819
+D0083,Green Ltd,North,Christine Ortiz,426836
+D0084,"Willis, Friedman and Simpson",East,Brianna Robbins,137235
+D0085,Howell LLC,South,Todd Braun,497237
+D0086,Williams Inc,East,Rose Wu,247484
+D0087,Gilbert Inc,South,Kimberly Sharp,239407
+D0088,"Cook, Vasquez and Fuller",West,Arthur Crane,499395
+D0089,Walker Inc,Central,Jordan Walker,475309
+D0090,"Moran, Martinez and Rose",West,Cindy Brewer,261810
+D0091,"Moyer, Rubio and Benjamin",Central,Cindy Hill,482950
+D0092,Erickson-Taylor,North,Patrick Thompson,253687
+D0093,Burke-Gentry,North,Diane Butler,123523
+D0094,"Tucker, Henderson and Norris",North,Mike Allen,286175
+D0095,Smith Group,South,Rebecca Anderson,144476
+D0096,Knight-Murphy,Central,Dillon Gonzalez,283841
+D0097,"Church, Arnold and Lopez",North,Joshua Lara,329163
+D0098,Robertson-Myers,East,Carrie Tucker,395757
+D0099,Black-George,Central,Robin Kennedy,272866
+D0100,Hanna-Pearson,Central,Theresa Hughes,136672
+D0101,Park PLC,South,Kim Alvarado,123847
+D0102,Osborn-Peterson,West,Aaron Pearson,394894
+D0103,Nguyen-Richards,South,Sarah Warren,260706
+D0104,Miller Group,North,Debra Terry,78251
+D0105,Delgado-Wagner,East,Patricia Sanders,153481
+D0106,"Thompson, Griffin and Francis",East,David James,424710
+D0107,"Miller, White and Schneider",North,Tammy Chen,75945
+D0108,Schneider-Jacobs,East,Michelle Lawrence,402996
+D0109,Johnson Ltd,South,Michael Miller,82217
+D0110,Carter-Adams,South,Jennifer Ryan,58308
+D0111,"Watson, Terry and Silva",North,Whitney Franklin,318093
+D0112,Love-Peck,East,Nicholas Smith,233062
+D0113,Williams-Frank,Central,Sara Phillips,444366
+D0114,Nichols-Johnson,West,Daniel Jones,270552
+D0115,Conley-Ballard,Central,Angela Butler,150235
+D0116,"Taylor, Greene and Graves",South,Richard Johnson,124740
+D0117,Anderson PLC,South,Kaitlin Perez,428496
+D0118,Wilson and Sons,South,Shawn Hebert,378761
+D0119,"Brown, Molina and Smith",South,Janet Wilson DVM,275913
+D0120,Roth Group,West,Amy Obrien,329040
+D0121,Dominguez-Clark,North,Juan Carter,442942
+D0122,Lane-Silva,South,Nicholas Martinez,227247
+D0123,Gomez and Sons,East,Lindsay Schmitt,188877
+D0124,Murphy Inc,West,Sarah Hernandez,55237
+D0125,Griffin-Thomas,South,Kristine Bradford,70056
+D0126,Macdonald Ltd,East,Robert Evans,226615
+D0127,Brennan-Rice,South,Lindsey Valenzuela,237628
+D0128,Davis-Ruiz,North,Linda Pruitt,164548
+D0129,Flores Group,West,William Smith,423632
+D0130,Ball-Floyd,North,Joseph Rivera,184415
+D0131,Gonzalez-Reid,West,Kevin Jones,456716
+D0132,Barr-Green,South,Brian Huffman,496438
+D0133,Hall Ltd,South,Nicholas Green,79375
+D0134,Lowery-Morris,West,Chloe Sampson,190734
+D0135,"Brewer, Dunn and Graham",East,Brandon Huang,66964
+D0136,Harrison Group,East,Monique Johnson,163429
+D0137,Dean PLC,South,Mason Garcia,302764
+D0138,Everett Group,South,Jill Horne,240710
+D0139,Flynn-Henry,North,Sue Simpson,266139
+D0140,Hall PLC,South,Richard Clark,117215
+D0141,Nguyen-Diaz,West,Mrs. Caitlin Thomas MD,381186
+D0142,White-Richardson,East,Terri Yates,194356
+D0143,"Miller, Owens and Mckee",East,Brian West,253861
+D0144,"Moore, Barnes and Clark",North,Dillon Wiley,405612
+D0145,Wilkinson Ltd,East,Christopher Davis,59435
+D0146,Willis Group,East,Toni Steele,497556
+D0147,"Shields, Hughes and Baldwin",Central,Krista Hartman,225150
+D0148,Manning Ltd,West,Ryan Gamble,390976
+D0149,Scott-Woods,Central,Diane Patterson,101293
+D0150,Reynolds-Walker,East,Heather Maldonado,128781
+D0151,Sharp-Wong,North,Michael Ross,241475
+D0152,Osborn-Walker,North,Mackenzie Lee,210196
+D0153,"Walker, Patterson and Franco",East,Shelly Faulkner,276507
+D0154,Bass PLC,South,Richard Pruitt,356063
+D0155,Garrison-Rodriguez,Central,David Frazier,289833
+D0156,Watson and Sons,East,Michael Richards,302377
+D0157,Garcia Inc,North,Gregory Robinson,216319
+D0158,"Green, Vang and Cruz",North,Michael Rodriguez,171172
+D0159,"Dunn, Nichols and West",Central,Andrea Combs,406902
+D0160,Valentine PLC,West,Todd Flores,368717
+D0161,Martin Inc,East,Brenda Mathews,109101
+D0162,"Smith, Webb and Arnold",East,Erin Johnson,338790
+D0163,Woods-Torres,West,Victoria Cisneros,416329
+D0164,Allen Inc,Central,Adrian Gregory,73049
+D0165,Petersen Inc,Central,Crystal Miranda,260677
+D0166,"Mosley, Fitzgerald and Gates",North,Tonya Reid,410260
+D0167,Moore-Smith,West,Sean Hill,409523
+D0168,"Jones, Taylor and Smith",Central,Scott Chapman,118385
+D0169,Morris-Hall,South,Clayton Riddle,176131
+D0170,"Ayala, Reilly and Zhang",East,Erica Fisher,483374
+D0171,Fleming-Jenkins,North,Jennifer Henderson,246489
+D0172,Mcdonald LLC,West,Donna Stewart,73289
+D0173,"Vargas, Ford and Farrell",North,Garrett Hill,422370
+D0174,Brown Ltd,Central,Richard Mitchell,412937
+D0175,Gonzales-Mosley,Central,William King,321967
+D0176,Allen PLC,South,Katherine Reed,241232
+D0177,Parks-Harvey,East,Nicole Ray,354119
+D0178,Holder-Beck,West,Brian Mckenzie,59540
+D0179,"Brock, Lee and Sherman",North,Donald Jackson,66364
+D0180,"Rodriguez, Zimmerman and Hunter",East,Christopher Anderson,447827
+D0181,Schmidt Group,Central,Steven Gonzales,77663
+D0182,Castro-Wells,East,Joshua King,101991
+D0183,Hill Group,North,Abigail Sawyer,238751
+D0184,"Delgado, Bolton and Murphy",East,Shane Yoder,416326
+D0185,Hansen-Armstrong,Central,Colin James,212049
+D0186,Gonzalez PLC,East,Daniel Hamilton,144704
+D0187,Little-Johnson,West,Kayla Navarro,99115
+D0188,"Patel, Moore and Sanchez",East,Alexis Taylor,403151
+D0189,Hill and Sons,West,Jamie Blackwell,269295
+D0190,Lopez-Mendez,East,Richard Miles,241962
+D0191,Gray-Meyer,Central,George Cole,247459
+D0192,Campbell Inc,South,Donald Long,199143
+D0193,Snow-Howell,South,Ashley Tran,240347
+D0194,"Brown, Howell and Garrett",West,Robert Barnes,61938
+D0195,Davis-Farley,West,Melissa Moore,478411
+D0196,Chase-Mcintosh,South,Marissa Tran,403824
+D0197,Roach-Powers,Central,Tammy Hunter,54000
+D0198,"Martinez, Bradley and Berry",Central,William Soto,251660
+D0199,Coffey-Marsh,East,Richard Manning,413186
+D0200,Bates Inc,West,Daniel Galvan,405754
+D0201,Perez LLC,Central,Joseph Robertson,301492
+D0202,"Romero, Reed and Jones",North,Ashley Villegas DVM,415835
+D0203,Cole-Sparks,East,Sarah Greene DDS,88304
+D0204,Pacheco Inc,East,Garrett Jenkins,381593
+D0205,Mitchell-Becker,South,Brandy Johnson,132986
+D0206,Mccullough PLC,West,Darlene Winters,201836
+D0207,Potts-Underwood,Central,Laura Anderson,158940
+D0208,"Lucas, Oliver and Wade",Central,Mr. Tim Keller,350638
+D0209,Rodriguez-Hernandez,East,David Webster,315517
+D0210,Roberts and Sons,West,Steven Zamora,193233
+D0211,"Reynolds, Wright and Delgado",West,Michelle Carrillo,147532
+D0212,Wong-Moore,West,Heather Gordon,404802
+D0213,Lee Group,South,Regina Copeland,435777
+D0214,"Moran, Sanchez and Mitchell",Central,Krystal Sandoval,150386
+D0215,Meyers Ltd,West,Susan Flynn,77350
+D0216,"Nelson, Jones and Richardson",South,Raymond Evans,143008
+D0217,Lara LLC,North,Antonio Joseph,406441
+D0218,"Rodriguez, Chavez and Duran",East,Martha Strickland,75351
+D0219,"Miller, Costa and Hill",Central,Brent Smith,138668
+D0220,Franklin LLC,Central,Shawn Arnold,164585
+D0221,Nelson Inc,East,Dr. Christopher Foster MD,458521
+D0222,Gilbert-Hatfield,North,Frank Morris,387497
+D0223,"Wright, Richardson and Brown",South,Jonathan Figueroa,257869
+D0224,"Baker, Chen and Whitaker",East,Lori Owens,115953
+D0225,"Wallace, Roberts and Castaneda",South,Madison Alvarez,369602
+D0226,Gould-Taylor,South,Maria Davis,332502
+D0227,Shannon Ltd,South,Eddie Day,53267
+D0228,Lopez LLC,North,Cheryl Yoder,132745
+D0229,"Stephenson, Ayala and Spears",North,Allison Nguyen,401732
+D0230,Bean Inc,South,Matthew Nelson,350657
+D0231,Watson PLC,West,John Matthews,207164
+D0232,Ross PLC,Central,Spencer Stein,61338
+D0233,"Jackson, Dawson and Burke",North,Billy Smith,181484
+D0234,Young-Small,West,Paula Benitez,57543
+D0235,Roman-Mosley,West,Kristin Matthews,418035
+D0236,"Ruiz, Smith and Reed",Central,Haley Wallace,476712
+D0237,Logan-Hall,South,Rachel Hill,110692
+D0238,Lopez-Odom,West,Christopher Johns,270156
+D0239,Hernandez-Carson,West,John Johnson,273992
+D0240,West-Smith,West,Tyler Sellers,356569
+D0241,Grant PLC,South,Ashlee Watkins,88756
+D0242,"Martinez, Williams and Jones",South,Kenneth Lopez,68888
+D0243,"Hodges, Mitchell and Davis",North,William Gutierrez,216807
+D0244,Blair Ltd,North,Blake Riley,359439
+D0245,"Shea, Gill and Maxwell",West,Kathy Reynolds,164352
+D0246,"Mitchell, Robertson and Garza",South,Geoffrey Lindsey,395186
+D0247,Smith PLC,South,Michele Nelson MD,135999
+D0248,Clayton-Cross,Central,Brenda Phillips,67955
+D0249,"Lucas, Smith and Armstrong",West,Savannah Wilson,349985
+D0250,"Rowe, Sharp and Smith",North,Mr. Jose Raymond,120640
+D0251,Rowland-Robinson,Central,Theresa Neal,246582
+D0252,Lynn Ltd,South,Anthony Rodriguez,478127
+D0253,Gilbert-Smith,North,Michael Wells,269798
+D0254,Richardson LLC,West,Cheryl Alexander,450573
+D0255,Stewart Inc,South,Andrea Whitehead,475695
+D0256,Hayes-Moore,West,Emma Pratt,111476
+D0257,Hernandez Ltd,Central,Cheryl Lucas,356955
+D0258,Lynch-Sampson,Central,Vincent Vega,217280
+D0259,Perez-Brown,Central,Donna Miller,201222
+D0260,Powell-Nelson,East,Russell Hess,121180
+D0261,"Stevens, Brown and Mitchell",West,Ronnie Middleton,224358
+D0262,Bartlett-Day,Central,Pamela Alexander,162856
+D0263,Torres Ltd,Central,Todd Stokes,380594
+D0264,Smith PLC,West,Gabriella Gonzales,464568
+D0265,"Fletcher, Scott and Ruiz",Central,Christopher Sawyer,236141
+D0266,"Little, Mckenzie and Reese",West,Phillip Beck,424032
+D0267,"Walton, Lewis and Jacobs",South,Bryan Duke,160448
+D0268,Jefferson-Warren,West,Joshua Harrington,64397
+D0269,Dunn-Spencer,West,Kathleen Newton,484771
+D0270,"Leonard, Williams and Berger",East,Adam Smith,228031
+D0271,"Rice, Jones and Harmon",South,Sherry Snyder,443944
+D0272,Mahoney Ltd,East,Tammy Barnett,493733
+D0273,Lane-Collins,Central,Pamela Lewis,169180
+D0274,Howard-Rodriguez,West,Jessica Howard,116234
+D0275,"Gilbert, Washington and Green",South,Michael Webster,89954
+D0276,Meza-Smith,East,Michael Ortiz,228352
+D0277,Navarro-Miller,West,Caroline Macdonald,129459
+D0278,Johnson Inc,North,Howard Klein,459995
+D0279,Moreno-Curry,East,Ashley Gardner,245004
+D0280,Reed-Small,South,Joseph Schultz,467682
+D0281,Adams-Schwartz,East,Melissa Wood,480155
+D0282,"Johnson, Torres and Alvarado",East,Kimberly Barton,250968
+D0283,Scott Group,East,Brenda Gallagher,478486
+D0284,Graham Group,Central,Stephanie Ramirez,109163
+D0285,Jenkins-Petersen,North,Kim Flores,101934
+D0286,Dixon Ltd,South,Renee Woods,245967
+D0287,Anderson LLC,South,Cynthia Scott,475523
+D0288,Chandler Inc,South,Brian Wilson,366242
+D0289,Carroll LLC,West,Andrea Williams,55486
+D0290,Fleming-Hernandez,South,Tara Ortiz,189407
+D0291,"Mcintosh, Wright and Johnson",South,Sierra Miles,399044
+D0292,Cain Ltd,North,Paul Ramirez,176020
+D0293,Fletcher PLC,West,Michael Smith,152795
+D0294,"Kirk, Foster and Allen",West,William Garcia,270184
+D0295,"Wagner, Wilson and Johnson",East,Angela Brady,192202
+D0296,Braun Ltd,Central,Alicia Villarreal,399652
+D0297,Hodge-Harvey,West,Lisa Reid,287027
+D0298,Turner-Bennett,West,Stacy Hoffman,168324
+D0299,Jones Group,North,Victor Myers,372710
+D0300,"Wilson, Ramos and Jordan",South,Laura Jennings,247775
