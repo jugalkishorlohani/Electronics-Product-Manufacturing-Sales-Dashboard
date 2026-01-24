@@ -42,8 +42,14 @@ It provides actionable insights into **production performance, demand vs supply,
 - Drill-down **detailed monthly view** for in-depth analysis
 - Business-ready dashboard design suitable for **operations, sales, and leadership teams**
 
----
+ ## 📸 Dashboard Screenshots
 
-📸 **Dashboard Screenshots** are included in this repository for quick reference.
-Dashboard Screenshots 1) https://github.com/jugalkishorlohani/Electronics-Product-Manufacturing-Sales-Dashboard/blob/main/Dashboard%20Screenshort%201.png
+### Manufacturing Overview
+![Manufacturing Dashboard](Dashboard Screenshot 1.png)
+
+### Sales Overview
+![Sales Dashboard](Dashboard Screenshot 2.png)
+
+### Detailed View
+![Detailed Dashboard](Dashboard Screenshot 3.png)
 
