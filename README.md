@@ -51,7 +51,7 @@ It provides actionable insights into **production performance, demand vs supply,
 ![Sales Dashboard](https://github.com/jugalkishorlohani/Electronics-Product-Manufacturing-Sales-Dashboard/blob/main/Dashboard%20Screenshort%202.png)
 
 # Detailed View
-![Detailed Dashboard](Dashboard Screenshot 3.png)
+![Detailed Dashboard](https://github.com/jugalkishorlohani/Electronics-Product-Manufacturing-Sales-Dashboard/blob/main/Dashboard%20Screenshort%203.png)
 
 
 
