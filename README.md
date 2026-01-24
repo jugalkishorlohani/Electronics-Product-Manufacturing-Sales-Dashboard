@@ -46,7 +46,7 @@ It provides actionable insights into **production performance, demand vs supply,
 
 # Manufacturing Overview
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-![Manufacturing Dashboard](Dashboard Screenshot 1.png)
+![Manufacturing Dashboard](https://github.com/jugalkishorlohani/Electronics-Product-Manufacturing-Sales-Dashboard/blob/main/Dashboard%20Screenshort%201.png)
 
 # Sales Overview
 ![Sales Dashboard](Dashboard Screenshot 2.png)
